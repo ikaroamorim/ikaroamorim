@@ -12,7 +12,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ikaroamorim.ikaroamorim)
 
-<br />
+<br/><br/>
 
 Hi, I'm Ikaro Amorim e Silva, a very motivated and passionate web developer.
 
@@ -24,8 +24,36 @@ Working as a Senior Support Analyst at Class Solutions.
 
 Take a second to know my [site](https://ikaroamorim.github.io/).
  
-<br />
+<br/><br/>
 
+## 📌 Fixed Repositories
+
+### Public portifolio
+Made by Html and Javascript, no framework
+[Code](https://github.com/ikaroamorim/ikaroamorim.github.io) / 
+[Site](https://ikaroamorim.github.io/)
+
+### Podcastr
+React project, using Next.js hosted in Vercel and the backend is hosted in Heroku made in Next Level Week 5
+[Code](https://github.com/ikaroamorim/Podcastr) / 
+[Site](https://podcastr-o05szcn7y-ikaroamorim.vercel.app/)
+
+### Move it
+React project, using Next.js made in Next Level Week 4
+[Code](https://github.com/ikaroamorim/moveit-next) / 
+[Site](https://moveit-next-gy4qd0rgb-ikaroamorim.vercel.app/)
+
+### Password Suggestion
+Password Generator for web
+[Code](https://github.com/ikaroamorim/PasswordSuggestion) / 
+[Site](https://ikaroamorim.github.io/PasswordSuggestion/)
+
+### Tasks Control
+MVC application in C#
+[Code](https://github.com/ikaroamorim/ControleTarefas)
+
+
+<br/><br/>
 
 ## 🎯 Skills and Tools
 <!-- Web Development -->
