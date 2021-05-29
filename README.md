@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**ikaroamorim/ikaroamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/ikaroamorimesilva/">
+  <img align="left" alt="Ikaro's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/ikaroamorim">
+  <img align="left" alt="Ikaro's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.facebook.com/ikaro.amorimesilva/">
+  <img align="left" alt="Ikaro's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ikaroamorim.ikaroamorim)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hi, I'm Ikaro Amorim e Silva, a very motivated and passionate web developer.
+
+Learning both back-end and front end techologies aiming to become a full-stack developer.
+
+Mechanical Engineer from [UNESP](https://www2.unesp.br/) and graduating on Computer Engineering at [UNIVESP](https://univesp.br/).
+
+Working as a Senior Support Analyst at Class Solutions.
+
+Take a second to know my [site](https://ikaroamorim.github.io/).
+ 
+<br />
+
+
+## 🎯 Skills and Tools
+<!-- Web Development -->
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next-dot-js&logoColor=white&color=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
+![Javascript Badge](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=black&color=F7DF1E)
+
+![Microsoft Sharepoint](https://img.shields.io/badge/Sharepoint-informational?style=flat&logo=microsoft-sharepoint&logoColor=white&color=0078D4)
+![Office 365](https://img.shields.io/badge/Office365-informational?style=flat&logo=microsoft-office&logoColor=white&color=D83B01)
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3)
+
+![Csharp Badge](https://img.shields.io/badge/Csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
+![Nodejs Badge](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node-dot-js&logoColor=white&color=339933)
+
+![VS Code Badge](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
+![Git Badge](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+
