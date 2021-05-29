@@ -10,13 +10,11 @@
   <img align="left" alt="Ikaro's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ikaroamorim.ikaroamorim)
-
 <br/><br/>
 
 Hi, I'm Ikaro Amorim e Silva, a very motivated and passionate web developer.
 
-Learning both back-end and front end techologies aiming to become a full-stack developer.
+Learning both back-end and frontend technologies aiming to become a full-stack developer.
 
 Mechanical Engineer from [UNESP](https://www2.unesp.br/) and graduating on Computer Engineering at [UNIVESP](https://univesp.br/).
 
@@ -28,13 +26,13 @@ Take a second to know my [site](https://ikaroamorim.github.io/).
 
 ## 📌 Fixed Repositories
 
-### Public portifolio
+### Public Portfolio
 Made by Html and Javascript, no framework
 [Code](https://github.com/ikaroamorim/ikaroamorim.github.io) / 
 [Site](https://ikaroamorim.github.io/)
 
 ### Podcastr
-React project, using Next.js hosted in Vercel and the backend is hosted in Heroku made in Next Level Week 5
+React project, using Next.js hosted in Vercel and the back-end is hosted in Heroku made in Next Level Week 5
 [Code](https://github.com/ikaroamorim/Podcastr) / 
 [Site](https://podcastr-o05szcn7y-ikaroamorim.vercel.app/)
 
@@ -49,14 +47,13 @@ Password Generator for web
 [Site](https://ikaroamorim.github.io/PasswordSuggestion/)
 
 ### Tasks Control
-MVC application in C#
+MVC application in C# for controlling students Tasks
 [Code](https://github.com/ikaroamorim/ControleTarefas)
 
 
 <br/><br/>
 
 ## 🎯 Skills and Tools
-<!-- Web Development -->
 ![React](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)
 ![Next](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next-dot-js&logoColor=white&color=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
