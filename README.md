@@ -24,7 +24,7 @@ Take a second to know my [site](https://ikaroamorim.github.io/).
  
 <br/><br/>
 
-## 📌 Fixed Repositories
+## 📌 Pinned Repositories
 
 ### Public Portfolio
 Made by Html and Javascript, no framework
