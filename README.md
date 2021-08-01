@@ -55,18 +55,21 @@ MVC application in C# for controlling students Tasks
 
 ## 🎯 Skills and Tools
 ![React](https://img.shields.io/badge/React-informational?style=plastic&logo=React&logoColor=black&color=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-informational?style=plastic&logo=next-dot-js&logoColor=white&color=000000)
+![Next](https://img.shields.io/badge/Next.js-informational?style=plastic&logo=nextdotjs&logoColor=white&color=000000)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=3178c6)
 ![Javascript Badge](https://img.shields.io/badge/Javascript-informational?style=plastic&logo=JavaScript&logoColor=black&color=F7DF1E)
 
 ![MySQL Badge](https://img.shields.io/badge/MySql-informational?style=plastic&logo=MySql&logoColor=white&color=4479A1)
-![MSSQL Badge](https://img.shields.io/badge/MSSql-informational?style=plastic&logo=microsoftsqlserver&logoColor=black&color=cc2927)
+![MSSQL Badge](https://img.shields.io/badge/MS_SQL_Server-informational?style=plastic&logo=microsoftsqlserver&logoColor=black&color=cc2927)
+![FireBase Badge](https://img.shields.io/badge/Firebase-informational?style=plastic&logo=firebase&logoColor=black&color=ffca28)
 
 ![Microsoft Sharepoint](https://img.shields.io/badge/Sharepoint-informational?style=plastic&logo=microsoft-sharepoint&logoColor=white&color=0078D4)
 ![Office 365](https://img.shields.io/badge/Office365-informational?style=plastic&logo=microsoft-office&logoColor=white&color=D83B01)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=CSS3&logoColor=white&color=1572B6)
+![SASS Badge](https://img.shields.io/badge/Sass-informational?style=plastic&logo=sass&logoColor=white&color=cc6699)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-informational?style=plastic&logo=Bootstrap&logoColor=white&color=7952B3)
 
 ![Csharp Badge](https://img.shields.io/badge/Csharp-informational?style=plastic&logo=c-sharp&logoColor=white&color=239120)
