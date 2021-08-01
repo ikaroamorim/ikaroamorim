@@ -26,7 +26,7 @@ Take a second to know my [site](https://ikaroamorim.github.io/).
 <!-- Status -->
 ## ✨ Status
 <div>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ikaroamorim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ikaroamorim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaroamorim&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 
