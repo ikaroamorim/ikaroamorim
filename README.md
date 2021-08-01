@@ -18,7 +18,7 @@ Learning both back-end and frontend technologies aiming to become a full-stack d
 
 Mechanical Engineer from [UNESP](https://www2.unesp.br/) and graduating on Computer Engineering at [UNIVESP](https://univesp.br/).
 
-Working as a Senior Support Analyst at Class Solutions.
+Working as a Front End Developer at Class Solutions.
 
 Take a second to know my [site](https://ikaroamorim.github.io/).
  
