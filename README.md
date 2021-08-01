@@ -54,21 +54,24 @@ MVC application in C# for controlling students Tasks
 <br/><br/>
 
 ## 🎯 Skills and Tools
-![React](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next-dot-js&logoColor=white&color=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178c6)
-![Javascript Badge](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=black&color=F7DF1E)
+![React](https://img.shields.io/badge/React-informational?style=plastic&logo=React&logoColor=black&color=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-informational?style=plastic&logo=next-dot-js&logoColor=white&color=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=3178c6)
+![Javascript Badge](https://img.shields.io/badge/Javascript-informational?style=plastic&logo=JavaScript&logoColor=black&color=F7DF1E)
 
-![Microsoft Sharepoint](https://img.shields.io/badge/Sharepoint-informational?style=flat&logo=microsoft-sharepoint&logoColor=white&color=0078D4)
-![Office 365](https://img.shields.io/badge/Office365-informational?style=flat&logo=microsoft-office&logoColor=white&color=D83B01)
+![MySQL Badge](https://img.shields.io/badge/MySql-informational?style=plastic&logo=MySql&logoColor=white&color=4479A1)
+![MSSQL Badge](https://img.shields.io/badge/MSSql-informational?style=plastic&logo=microsoftsqlserver&logoColor=black&color=cc2927)
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=1572B6)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3)
+![Microsoft Sharepoint](https://img.shields.io/badge/Sharepoint-informational?style=plastic&logo=microsoft-sharepoint&logoColor=white&color=0078D4)
+![Office 365](https://img.shields.io/badge/Office365-informational?style=plastic&logo=microsoft-office&logoColor=white&color=D83B01)
 
-![Csharp Badge](https://img.shields.io/badge/Csharp-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
-![Nodejs Badge](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node-dot-js&logoColor=white&color=339933)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=E34F26)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-informational?style=plastic&logo=CSS3&logoColor=white&color=1572B6)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-informational?style=plastic&logo=Bootstrap&logoColor=white&color=7952B3)
 
-![VS Code Badge](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
-![Git Badge](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+![Csharp Badge](https://img.shields.io/badge/Csharp-informational?style=plastic&logo=c-sharp&logoColor=white&color=239120)
+![Nodejs Badge](https://img.shields.io/badge/Node.js-informational?style=plastic&logo=Nodedotjs&logoColor=white&color=339933)
+
+![VS Code Badge](https://img.shields.io/badge/VS_Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
+![Git Badge](https://img.shields.io/badge/Git-informational?style=plastic&logo=Git&logoColor=white&color=F05032)
 
