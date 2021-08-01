@@ -60,6 +60,9 @@ MVC application in C# for controlling students Tasks
 ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=3178c6)
 ![Javascript Badge](https://img.shields.io/badge/Javascript-informational?style=plastic&logo=JavaScript&logoColor=black&color=F7DF1E)
 
+![Heroku Badge](https://img.shields.io/badge/Heroku-informational?style=plastic&logo=heroku&logoColor=white&color=430098)
+![Vercel Badge](https://img.shields.io/badge/Vercel-informational?style=plastic&logo=vercel&logoColor=white&color=000000)
+
 ![MySQL Badge](https://img.shields.io/badge/MySql-informational?style=plastic&logo=MySql&logoColor=white&color=4479A1)
 ![MSSQL Badge](https://img.shields.io/badge/MS_SQL_Server-informational?style=plastic&logo=microsoftsqlserver&logoColor=black&color=cc2927)
 ![FireBase Badge](https://img.shields.io/badge/Firebase-informational?style=plastic&logo=firebase&logoColor=black&color=ffca28)
