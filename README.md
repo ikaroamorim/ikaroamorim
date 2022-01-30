@@ -20,7 +20,7 @@ Mechanical Engineer from [UNESP](https://www2.unesp.br/) and graduating on Compu
 
 Working as a Front End Developer at Class Solutions.
 
-Take a second to know my [site](https://ikaroamorim.github.io/).
+Take a second to visit my [site](https://ikaroamorim.github.io/).
  
 
 <!-- Status -->
