@@ -18,9 +18,9 @@ Learning both back-end and frontend technologies aiming to become a full-stack d
 
 Mechanical Engineer from [UNESP](https://www2.unesp.br/) and graduating on Computer Engineering at [UNIVESP](https://univesp.br/).
 
-Working as a Front End Developer at Class Solutions.
+Working as Developer at Capgemini.
 
-Take a second to visit my [site](https://ikaroamorim.github.io/).
+Take a second to visit my [site](https://portifolio-mu.vercel.app/).
  
 
 <!-- Status -->
@@ -34,9 +34,9 @@ Take a second to visit my [site](https://ikaroamorim.github.io/).
 ## 📌 Pinned Repositories
 
 ### Public Portfolio
-Made by Html and Javascript, no framework
-[Code](https://github.com/ikaroamorim/ikaroamorim.github.io) / 
-[Site](https://ikaroamorim.github.io/)
+Created with Next.js and hosted in Vercel, the back-end is Node.js hosted in Heroku attached to a PostgreSQL database
+[Code](https://github.com/ikaroamorim/portifolio) / 
+[Site](https://portifolio-mu.vercel.app/)
 
 ### Podcastr
 React project, using Next.js hosted in Vercel and the back-end is hosted in Heroku made in Next Level Week 5
