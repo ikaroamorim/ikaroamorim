@@ -25,6 +25,7 @@ Take a second to visit my [site](https://portifolio-mu.vercel.app/).
 
 <!-- Status -->
 ## ✨ Status
+<img src="https://www.codewars.com/users/ikarosilva/badges/large" />
 <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ikaroamorim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikaroamorim&layout=compact&langs_count=10&theme=tokyonight"/>
