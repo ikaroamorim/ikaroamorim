@@ -20,7 +20,7 @@ Mechanical Engineer from [UNESP](https://www2.unesp.br/) and graduating on Compu
 
 Working as Developer at Capgemini.
 
-Take a second to visit my [site](https://portifolio-mu.vercel.app/).
+Take a second to visit my [site](https://portfolio-ikaroamorim.vercel.app/).
  
 
 <!-- Status -->
@@ -36,8 +36,8 @@ Take a second to visit my [site](https://portifolio-mu.vercel.app/).
 
 ### Public Portfolio
 Created with Next.js and hosted in Vercel, the back-end is Node.js hosted in Heroku attached to a PostgreSQL database
-[Code](https://github.com/ikaroamorim/portifolio) / 
-[Site](https://portifolio-mu.vercel.app/)
+[Code](https://github.com/ikaroamorim/portfolio) / 
+[Site](https://portfolio-ikaroamorim.vercel.app/)
 
 ### Podcastr
 React project, using Next.js hosted in Vercel and the back-end is hosted in Heroku made in Next Level Week 5
