@@ -6,9 +6,7 @@
 <a href="https://twitter.com/ikaroamorim">
   <img align="left" alt="Ikaro's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.facebook.com/ikaro.amorimesilva/">
-  <img align="left" alt="Ikaro's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+
 
 <br/><br/>
 
