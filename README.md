@@ -12,11 +12,11 @@
 
 Hi, I'm Ikaro Amorim e Silva, a very motivated and passionate web developer.
 
-Learning both back-end and frontend technologies aiming to become a full-stack developer.
+Working with Power Platform and learning both back-end and frontend technologies aiming to become a full-stack developer.
 
 Mechanical Engineer from [UNESP](https://www2.unesp.br/) and graduating on Computer Engineering at [UNIVESP](https://univesp.br/).
 
-Working as Developer at Capgemini.
+Working as Developer at Avanade.
 
 Take a second to visit my [site](https://portfolio-ikaroamorim.vercel.app/).
  
