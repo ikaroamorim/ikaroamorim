@@ -1,10 +1,10 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/ikaroamorimesilva/">
-  <img align="left" alt="Ikaro's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ikaro's Linkedin" width="22px" src="./assets/linkedin logo.png" />
 </a>
 <a href="https://twitter.com/ikaroamorim">
-  <img align="left" alt="Ikaro's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ikaro's X" width="22px" src="./assets/x logo.jpg" />
 </a>
 
 
@@ -14,7 +14,7 @@ Hi, I'm Ikaro Amorim e Silva, a very motivated and passionate web developer.
 
 Working with Power Platform and learning both back-end and frontend technologies aiming to become a full-stack developer.
 
-Mechanical Engineer from [UNESP](https://www2.unesp.br/) and graduating on Computer Engineering at [UNIVESP](https://univesp.br/).
+Mechanical Engineer from [UNESP](https://www2.unesp.br/) and Computer Engineer at [UNIVESP](https://univesp.br/).
 
 Working as Developer at Avanade.
 
